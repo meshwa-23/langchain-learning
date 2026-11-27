@@ -1,0 +1,25 @@
+
+# Virtual environment
+langchain_env/
+venv/
+
+# API keys and secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector databases
+chroma_db/
+rag_database/
+
+# Personal documents
+sample.pdf
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
